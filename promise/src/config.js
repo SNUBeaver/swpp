@@ -8,7 +8,7 @@ const config = {
   test: {},
   development: {},
   production: {
-    apiUrl: 'http://localhost:8000/',
+    apiUrl: 'http://18.188.158.71/',
   },
 }
 
